@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: rgb(131, 49, 49);
+}
+h1{
+    color: steelblue;
+    font-size: 100px;
+    font-weight: bold;
+}
+button{
+    width: 350px;
+    height: 50px;
+    font-size: 30px;
+}
+
+canvas{
+    border: 4px black solid;
+}
